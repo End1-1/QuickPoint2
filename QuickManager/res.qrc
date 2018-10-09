@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/app.ico</file>
+        <file>manager.qm</file>
+        <file>icons/calc.png</file>
+        <file>icons/calendar.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/filter.png</file>
+        <file>icons/new.png</file>
+        <file>icons/print.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/total.png</file>
+        <file>icons/excel.png</file>
+        <file>icons/recipe.png</file>
+        <file>icons/deleted.png</file>
+        <file>icons/group_event.png</file>
+        <file>icons/eraser.png</file>
+    </qresource>
+</RCC>

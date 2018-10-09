@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/exit.png</file>
+        <file>icons/app.ico</file>
+        <file>quicksale.qm</file>
+        <file>icons/down.png</file>
+        <file>icons/up.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/service_check.png</file>
+        <file>icons/payment.png</file>
+        <file>icons/menu.png</file>
+        <file>icons/credit-card.png</file>
+        <file>icons/discount.png</file>
+    </qresource>
+</RCC>

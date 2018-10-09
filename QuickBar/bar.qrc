@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/app.ico</file>
+        <file>quickbar.qm</file>
+        <file>icons/up.png</file>
+        <file>icons/down.png</file>
+        <file>icons/dishes.png</file>
+        <file>icons/groups.png</file>
+        <file>icons/delete_row.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/print.png</file>
+        <file>icons/menu.png</file>
+    </qresource>
+</RCC>

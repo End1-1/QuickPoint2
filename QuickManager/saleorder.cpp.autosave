@@ -1,0 +1,13 @@
+#include "saleorder.h"
+
+SaleOrder::SaleOrder(QWidget *parent) :
+    EditWindow(parent)
+{
+    setWindowTitle(tr("Order"));
+    QVBoxLayout *plMain = new QVBoxLayout();
+
+    m_pOrder = new QTableWidget(this);
+    QPushButton *pbtnOk = new QPushButton(tr("Close"), this);
+
+    plMain->addWidget(m_pOrder)
+}
